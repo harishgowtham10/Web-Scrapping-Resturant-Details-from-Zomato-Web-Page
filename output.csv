@@ -1,0 +1,81 @@
+restaurant_id,name,area,restaurant_type,rating,votes
+1,Big Pitcher,Sarjapur Road,"Microbrewery,Casual Dining",4.5,214 votes
+2,The Big Barbeque,Electronic City,Casual Dining,4.5,214 votes
+3,Xochi Bar And Kitchen,Bellandur,"Bar,Casual Dining",4.5,214 votes
+4,BLR Brewing Co.,Electronic City,"Microbrewery,Casual Dining",4.5,214 votes
+5,Dr. Sheesha 24 Hours Gastro Pub,"The Sahar Pavilion, Electronic City",Pub,4.5,214 votes
+6,Byg Brewski Brewing Company,Sarjapur Road,Microbrewery,4.5,214 votes
+7,URU Brewpark,JP Nagar,"Microbrewery,Casual Dining",4.5,214 votes
+8,Hoot,Sarjapur Road,"Microbrewery,Casual Dining",4.5,214 votes
+9,Brahma Brews,JP Nagar,"Microbrewery,Casual Dining",4.5,214 votes
+10,The Fisherman's Wharf,Sarjapur Road,"Casual Dining,Bar",4.5,214 votes
+11,Masala Mandi,Sarjapur Road,Casual Dining,4.5,214 votes
+12,AB's - Absolute Barbecues,BTM,Casual Dining,4.5,214 votes
+13,Shivaji Military Hotel,Jayanagar,Quick Bites,4.5,214 votes
+14,Levels,JP Nagar,"Pub,Casual Dining",4.5,214 votes
+15,The Globe Grub,BTM,Casual Dining,4.5,214 votes
+16,Stories - The Brew Chapter,BTM,"Microbrewery,Casual Dining",4.8,3828 votes
+17,Meghana Foods,Jayanagar,Casual Dining,4.8,3828 votes
+18,The Pump House,JP Nagar,Microbrewery,4.8,3828 votes
+19,Sarjapur Social,Sarjapur Road,"Lounge,Casual Dining",4.8,3828 votes
+20,Barbeque Nation,JP Nagar,Casual Dining,4.8,3828 votes
+21,TBC Sky Lounge,HSR,"Bar,Casual Dining",4.8,3828 votes
+22,46 Ounces Brewgarden,Electronic City,Microbrewery,4.8,3828 votes
+23,Deja Vu Buffet Bar,JP Nagar,"Casual Dining,Bar",4.8,3828 votes
+24,Aurum Brew Works,Sarjapur Road,"Microbrewery,Casual Dining",4.8,3828 votes
+25,Mavalli Tiffin Room (MTR),Basavanagudi,Quick Bites,4.8,3828 votes
+26,Vapour Brewpub and Diner,Sarjapur Road,"Microbrewery,Casual Dining",4.8,3828 votes
+27,Grasshopper,Bannerghatta Road,Fine Dining,4.8,3828 votes
+28,                                    ,HSR,eat.fit,4.8,3828 votes
+29,Gilly's Restobar,Electronic City,"Pub,Casual Dining",4.8,3828 votes
+30,Hakuna Matata,JP Nagar,"Casual Dining,Bar",4.8,3828 votes
+31,Hakuna Matata,JP Nagar,"Casual Dining,Bar",4.4,3177 votes
+32,House Of Commons,HSR,Bar,4.4,3177 votes
+33,Levitate Brewery and Kitchen,JP Nagar,"Microbrewery,Casual Dining",4.4,3177 votes
+34,Stegi - Modern Indian,Jayanagar,Casual Dining,4.4,3177 votes
+35,Al Daaz,HSR,Casual Dining,4.4,3177 votes
+36,Sattvam,JP Nagar,Casual Dining,4.4,3177 votes
+37,Gufha - The President Hotel,"The President Hotel, Jayanagar",Casual Dining,4.4,3177 votes
+38,What the Ale?!,Electronic City,"Microbrewery,Casual Dining",4.4,3177 votes
+39,Whattay Kitchen and Brew,Kanakapura Road,"Microbrewery,Casual Dining",4.4,3177 votes
+40,Taaza Thindi,Jayanagar,Quick Bites,4.4,3177 votes
+41,The Barbecue Kingdom,Electronic City,Casual Dining,4.4,3177 votes
+42,1522 - The Pub,JP Nagar,Pub,4.4,3177 votes
+43,Rural Blues,Sarjapur Road,"Casual Dining,Bar",4.4,3177 votes
+44,Subz,Jayanagar,Casual Dining,4.4,3177 votes
+45,By The Peepal,JP Nagar,"Microbrewery,Casual Dining",4.4,3177 votes
+46,Fat Owl,JP Nagar,"Bar,Casual Dining",4.4,504 votes
+47,Tipsy Bull - The Bar Exchange,JP Nagar,"Bar,Casual Dining",4.4,504 votes
+48,Stories,JP Nagar,"Pub,Casual Dining",4.4,504 votes
+49,Chulha Chauki Da Dhaba,JP Nagar,Casual Dining,4.4,504 votes
+50,Vidyarthi Bhavan,Basavanagudi,Quick Bites,4.4,504 votes
+51,Empire Restaurant,Jayanagar,Casual Dining,4.4,504 votes
+52,                                    ,Electronic City,E - City Combos,4.4,504 votes
+53,La Casa Brewery And Kitchen,Sarjapur Road,"Microbrewery,Casual Dining",4.4,504 votes
+54,Onesta,HSR,"Casual Dining,Café",4.4,504 votes
+55,Habit@,Bellandur,"Bar,Casual Dining",4.4,504 votes
+56,Shift,HSR,"Lounge,Casual Dining",4.4,504 votes
+57,OPUS Club,"OPUS, Sarjapur Road",Pub,4.4,504 votes
+58,Spice It - Ibis Bengaluru,"Ibis Bengaluru, Marathahalli",Casual Dining,4.4,504 votes
+59,Broadway - The Gourmet Theatre,HSR,"Casual Dining,Bar",4.4,504 votes
+60,                                    ,BTM,Express by ABs,4.4,504 votes
+61,Brother Barley Brewing Company,HSR,"Microbrewery,Casual Dining",4.3,518 votes
+62,Chili's American Grill & Bar,Bellandur,"Casual Dining,Bar",4.3,518 votes
+63,The Hidden Home,Sarjapur Road,Casual Dining,4.3,518 votes
+64,Go Native,Jayanagar,Casual Dining,4.3,518 votes
+65,Waffle Cart,BTM,Dessert Parlor,4.3,518 votes
+66,The Punjabi Rasoi,Sarjapur Road,Casual Dining,4.3,518 votes
+67,Millennials,JP Nagar,"Bar,Casual Dining",4.3,518 votes
+68,Village - The Soul of India,"Bangalore Central, JP Nagar",Casual Dining,4.3,518 votes
+69,Brahmin's Coffee Bar,Basavanagudi,Quick Bites,4.3,518 votes
+70,Kesariya,JP Nagar,Casual Dining,4.3,518 votes
+71,Indigo X II P,HSR,Pub,4.3,518 votes
+72,Ranganna Military Hotel,Jayanagar,Quick Bites,4.3,518 votes
+73,Basil Bistro,HSR,Casual Dining,4.3,518 votes
+74,Crumb Together,JP Nagar,"Casual Dining,Bar",4.3,518 votes
+75,Tea Villa Cafe,Jayanagar,Café,4.3,518 votes
+76,Hammered,HSR,"Bar,Casual Dining",4.4,2152 votes
+77,Crumb Together,JP Nagar,"Casual Dining,Bar",4.4,2152 votes
+78,Nandhini Paradise,JP Nagar,Casual Dining,4.4,2152 votes
+79,Pepe's Pizza,Bellandur,Casual Dining,4.4,2152 votes
+80,Xtreme Sports Bar,Sarjapur Road,"Bar,Pub",4.4,2152 votes
